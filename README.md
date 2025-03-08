@@ -24,4 +24,5 @@ To run the project:
    ```bash
    pip install -r requirements.txt
 3. Run the main script by running:
+   ```bash
    python main.py
