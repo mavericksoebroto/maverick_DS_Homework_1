@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openai
+autogen-agentchat
+autogen-ext
+playwright
