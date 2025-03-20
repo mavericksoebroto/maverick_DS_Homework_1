@@ -34,7 +34,7 @@ This structured flow ensures that data is efficiently handled and meaningful ins
 
 ## Instructions
 To run the project:
-1. Clone this repository.
+1. Clone this repository:
    ```bash
    git clone https://github.com/mavericksoebroto/maverick_DS_Homework_1.git
    cd maverick_DS_Homework_1
